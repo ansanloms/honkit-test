@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "@ansanloms/honkit-plugin-uml": "git+https://github.com/ansanloms/honkit-plugin-uml.git",
-    "honkit": "^3.4.0"
+    "honkit": "^3.4.1"
   }
 }
